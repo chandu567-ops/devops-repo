@@ -1,1 +1,2 @@
-Git is lightweight
+Git is lightweight.
+Git is distributed
